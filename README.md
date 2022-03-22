@@ -1,6 +1,6 @@
 -  Hi im Govind, A data analyst.
 -  Machine Learning and A.I are what im focused on right now.
--  Jusr Started Learning.
+-  Just Started Learning. JS, CSS , S
 
 <!---
 Govind1997/Govind1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
