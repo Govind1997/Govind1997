@@ -2,7 +2,7 @@
 -  Hi im Govind, A data analyst.
 -  Machine Learning and A.I are what im focused on right now.
 -  Just Started Learning web developmeent with js, css, html.
--  As of now i've worked on several data analytics and ML projcets.
+-  As of now i've worked on several data analytics and ML projects.
 -  Founder - [Kozker Lab](https://github.com/Kozker-lab)
 -  Founder - [The Blu Blog](https://www.theblublog.com)
 --------------------------------------------------------------------------------------------------------------------
