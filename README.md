@@ -1,10 +1,8 @@
 ## Personal Bio - 
-Masters in Busniess Anlytics @Hult
-Working as a Data Anlyst @erbrains
+- Masters in Busniess Anlytics @Hult \
+- Working as a Data Anlyst @erbrains
 
-### Profession - Data science
----
-#### My toolbox
+#### Profession - Data science
 - #Python
 - #R
 - #SQL
@@ -12,27 +10,20 @@ Working as a Data Anlyst @erbrains
 - #Tableau
 - #MATLAB
 - #Talend
----
-- **Current Focus** - In the process of Mastering - Machine Learning and A.I.
-- **Experience** - Several Data science and Data Viz projects both personal and work/school
----
+
 
 ### Passion - Development
-
 - #Javascript
 - #HTML&CSS
 - #Wordpress
 - #Figma
 - #Incskape
 
----
-- **Focus** - Learn and Master JS and frameworks.
-- **Experience** - Several Wordpress, shopify and wix web sites.
----
 
+---
 -  **Founder** - [Kozker Lab](https://github.com/Kozker-lab)
 -  **Founder** - [The Blu Blog](https://www.theblublog.com)
---------------------------------------------------------------------------------------------------------------------
+---
 ## My Projects-
 1. **@kozker-lab** - My Dream Project, Aimed at helping people and businesses learn, grow and mainly practice and impliment, skills in data science and web     `     development.
  
